@@ -1,0 +1,15 @@
+# AWS Secrets
+MyWork/secrets/*.txt
+MyWork/secrets/aws_access_key_id.txt
+MyWork/secrets/aws_secret_access_key.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
